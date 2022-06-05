@@ -1,6 +1,7 @@
 
 ## AI-Controlled-3D-Modelled-Robotic-Arm
-Brief Information:
+**Brief Information:**
+
 This is a robotic arm which basically mimics your hand movement by detecting your computer camera.
 
 In this project, I used KL25z Board to controlled my servos and OpenCv to detect my hand movements.
